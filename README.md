@@ -1,2 +1,7 @@
-# PMP-Repository
-A structured repository to store and organize all resources, notes, and study materials related to PMP (Project Management Professional) certification preparation.
+# PMP Repository 📘
+
+Welcome to the **PMP Repository** – your central hub for storing and organizing all materials related to your Project Management Professional (PMP) exam preparation.
+
+## 📁 Structure
+
+This repository is organized into folders by topic, aligning with PMP exam domains and PMI frameworks:
